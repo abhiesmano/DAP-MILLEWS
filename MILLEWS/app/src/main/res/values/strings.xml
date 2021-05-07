@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">MILLEWS</string>
+    <string name="millews">MILLEWS</string>
+    <string name="header">A Millenial Plaform for being up to date</string>
+    <string name="name">Name</string>
+    <string name="username">Username</string>
+    <string name="textview">TextView</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="account">Dont have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="tv_loginalt">OR LOGIN WITH</string>
+    <string name="facebookicon">FacebookIcon</string>
+    <string name="googleicon">GoogleIcon</string>
 </resources>
